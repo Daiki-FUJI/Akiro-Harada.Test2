@@ -83,3 +83,4 @@ void omniprint(){
   Serial.print(z);
 }
 
+// Yamagami equal TSUNDERE
